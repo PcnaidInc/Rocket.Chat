@@ -310,7 +310,7 @@
 		"@types/meteor": "^2.9.9",
 		"@vector-im/matrix-bot-sdk": "0.7.1-element.11",
 		"@xmldom/xmldom": "^0.8.10",
-		"adm-zip": "0.5.16",
+		"adm-zip": "0.6.0",
 		"ajv": "^8.17.1",
 		"ajv-formats": "~3.0.1",
 		"archiver": "^7.0.1",
